@@ -1,0 +1,15 @@
+nisargacure — Nisarga Cure
+=============================
+Hero: photo-1544367567-0f2fcb009e0b — yoga therapy, silhouette woman — APPROVED
+Hero URL: https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=1920&q=85&auto=format&fit=crop
+
+Service photo 1: photo-1599901860904-17e6ed7083a0 — woman doing yoga pose — APPROVED
+Service photo 2: photo-1545205597-3d9d02c29597 — group yoga on beach — APPROVED
+
+Founder photo: photo-1642975967602-653d378f3b5b — Indian doctor in white coat — APPROVED
+Founder URL: https://images.unsplash.com/photo-1642975967602-653d378f3b5b?w=800&q=80&auto=format&fit=crop
+
+Logo: public/clients/nisargacure/logo.png — downloaded from Zyrosite CDN
+
+Platform: Zyrosite (SaaS site builder)
+Location: Raipur, Chhattisgarh, India
